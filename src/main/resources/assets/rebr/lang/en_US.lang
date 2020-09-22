@@ -1,0 +1,40 @@
+#Tabs
+itemGroup.tab_rebr=REBR
+
+#Blocks
+tile.counter.name=Counter
+tile.forstess_block.name=Reinforced boards
+tile.forstess_blockL2.name=Reinforced stone
+tile.forstess_blockL3.name=Reinforced metal
+item.buildingmallet.name=Building mallet Lvl.1
+item.buildingmallet2.name=Building mallet Lvl.2
+item.buildingmallet3.name=Building mallet Lvl.3
+tile.sulfur_ore.name=Sulfur ore
+tile.potassium_nitrateOre.name=Nitrocalite
+item.dynamite_stick.name=Dynamite stick
+item.dpacket.name=Dynamite package
+item.c4.name=C4
+item.explosive.name=Explosive
+item.insulating_tape.name=Insulating tape
+item.detonator.name=Logical element
+item.sulfur.name=Sulfur
+item.lcd_display.name=LCD Display
+item.potassium_nitrate.name=Potassium Nitrate
+item.chip.name=Chip
+item.rope.name=Rope
+item.cloth.name=Cloth
+item.bickford_fuse.name=Bickford fuse
+item.powder.name=Industrial powder
+item.sulfur_briquette.name=Sulfur briquette
+item.powder_briquette.name=Industrial powder briquette
+item.door_remover.name=Door wrench
+item.doorL1_item.name=Reinforced wooden door
+item.doorL2_item.name=Reinforced stone door
+item.doorL3_item.name=Reinforced steel door
+
+#Messages
+tile.counter.current=Server: Counter - %s
+tile.counter.owner=Client: %s, you are owner.
+tile.counter.imposter=You can not break this block, because it belongs to the player %s!
+tile.timer.current=You can not throw more %s seconds 
+tile.door.openpls=Please open the door to remove it!  

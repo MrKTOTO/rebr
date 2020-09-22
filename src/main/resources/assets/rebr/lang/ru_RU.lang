@@ -1,0 +1,43 @@
+#Вкладки
+itemGroup.tab_rebr=REBR
+
+#Блоки
+tile.counter.name=Блок-счётчик
+tile.forstess_block.name=Укреплённые доски
+tile.forstess_blockL2.name=Укреплённый камень
+tile.forstess_blockL3.name=Укреплённый металл
+item.buildingmallet.name=Строительная киянка Lvl.1
+item.buildingmallet2.name=Строительная киянка Lvl.2
+item.buildingmallet3.name=Строительная киянка Lvl.3
+tile.sulfur_ore.name=Серная руда
+tile.potassium_nitrateOre.name=Нитрокалит
+item.dynamite_stick.name=Динамитная шашка
+item.dpacket.name=Динамитный пакет
+item.c4.name=C4
+item.explosive.name=Взрывчатое вещество
+item.insulating_tape.name=Изолента
+item.detonator.name=Логический элемент
+item.sulfur.name=Сера
+item.lcd_display.name=LCD Дисплей
+item.potassium_nitrate.name=Калиевая селитра
+item.chip.name=Чип
+item.rope.name=Верёвка
+item.cloth.name=Ткань
+item.bickford_fuse.name=Бикфордов шнур
+item.powder.name=Промышленный порох
+item.sulfur_briquette.name=Брикет серы
+item.powder_briquette.name=Брикет промышленного пороха
+item.door_remover.name=Дверной ключ
+item.doorL1_item.name=Укреплённая деревянная дверь
+item.doorL2_item.name=Укреплённая каменная дверь
+item.doorL3_item.name=Укреплённая металлическая дверь
+
+
+#Сообщения
+tile.counter.current=Сервер: Счётчик - %s
+tile.counter.current2=Сервер: %s
+tile.counter.owner=Клиент: %s, ты являешься владельцем.
+tile.counter.imposter=Ты не можешь сломать этот блок, т.к. он принадлежит игроку  %s
+tile.timer.current=Ты не можешь кинуть ещё %s секунд 
+tile.door.openpls=Пожалуйста, откройте дверь, чтобы убрать её!
+

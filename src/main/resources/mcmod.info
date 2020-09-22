@@ -1,0 +1,16 @@
+[
+{
+  "modid": "REBR",
+  "name": "Raider Explosions and Base Reinforcement",
+  "description": "English: Improve raid(grief) experience. Fortifications for buildings and means for their destruction.",
+  "version": "1.4.1",
+  "mcversion": "${mcversion}",
+  "url": "https://www.youtube.com/channel/UC4yxhXRSlpCTQPCni5rlAyA",
+  "updateUrl": "",
+  "authorList": ["Mr.KTO-TO"],
+  "credits": "Mr.KTO-TO YouTube",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
